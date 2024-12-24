@@ -1,5 +1,5 @@
-C:\Users\piza1\source\repos\SoftwareStoreAPI\Client\wwwroot\index.html
-C:\Users\piza1\source\repos\SoftwareStoreAPI\Client\wwwroot\css\app.css
+C:\Users\piza1\OneDrive\Рабочий стол\Soft\Client\wwwroot\index.html
+C:\Users\piza1\OneDrive\Рабочий стол\Soft\Client\wwwroot\css\app.css
 wwwroot\css\app.css
 wwwroot\Img\batrix.png
 wwwroot\Img\kasp.png
