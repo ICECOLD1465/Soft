@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uCeLDz+tlW0=",
+  "dgSpecHash": "+BjW40m7oQ8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\SoftwareStoreAPI.csproj",
+  "projectFilePath": "C:\\Users\\piza1\\OneDrive\\Рабочий стол\\Soft\\SoftwareStoreAPI\\SoftwareStoreAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\piza1\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\piza1\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",

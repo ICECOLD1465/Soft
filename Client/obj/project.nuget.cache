@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uZqPBmHGH5g=",
+  "dgSpecHash": "+Zu6xfFWUG8=",
   "success": true,
-  "projectFilePath": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\Client.csproj",
+  "projectFilePath": "C:\\Users\\piza1\\OneDrive\\Рабочий стол\\Soft\\Client\\Client.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\piza1\\.nuget\\packages\\microsoft.aspnetcore.authorization\\9.0.0\\microsoft.aspnetcore.authorization.9.0.0.nupkg.sha512",
     "C:\\Users\\piza1\\.nuget\\packages\\microsoft.aspnetcore.components\\9.0.0\\microsoft.aspnetcore.components.9.0.0.nupkg.sha512",

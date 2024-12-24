@@ -1,5 +1,2 @@
-C:\Users\piza1\source\repos\SoftwareStoreAPI\Client\wwwroot\Img\{4B25D64B-A7DB-4973-A435-DAC4B1E4961F}.png
-C:\Users\piza1\source\repos\SoftwareStoreAPI\Client\wwwroot\Img\{B3C55DB5-3DF3-45E0-9B33-B0CF55EF2A46}.png
-C:\Users\piza1\source\repos\SoftwareStoreAPI\Client\wwwroot\Img\{C3E2DFFA-3C6F-423C-8B8D-A8832BDC661E}.png
-C:\Users\piza1\source\repos\SoftwareStoreAPI\Client\wwwroot\Img\{DD14B7EA-9DAC-4C19-91B3-2D9CA02FFD91}.png
-C:\Users\piza1\source\repos\SoftwareStoreAPI\Client\wwwroot\Img\{E3DC2B14-CFC9-4FE9-AF80-E8CB5185BCDD}.png
+C:\Users\piza1\source\repos\SoftwareStoreAPI\Client\wwwroot\index.html
+C:\Users\piza1\source\repos\SoftwareStoreAPI\Client\wwwroot\css\app.css

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\Client.csproj": {}
+    "C:\\Users\\piza1\\OneDrive\\Рабочий стол\\Soft\\Client\\Client.csproj": {}
   },
   "projects": {
-    "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\Client.csproj": {
+    "C:\\Users\\piza1\\OneDrive\\Рабочий стол\\Soft\\Client\\Client.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\Client.csproj",
+        "projectUniqueName": "C:\\Users\\piza1\\OneDrive\\Рабочий стол\\Soft\\Client\\Client.csproj",
         "projectName": "Client",
-        "projectPath": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\Client.csproj",
+        "projectPath": "C:\\Users\\piza1\\OneDrive\\Рабочий стол\\Soft\\Client\\Client.csproj",
         "packagesPath": "C:\\Users\\piza1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\obj\\",
+        "outputPath": "C:\\Users\\piza1\\OneDrive\\Рабочий стол\\Soft\\Client\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

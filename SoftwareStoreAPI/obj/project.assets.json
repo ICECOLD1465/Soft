@@ -5175,11 +5175,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\SoftwareStoreAPI.csproj",
+      "projectUniqueName": "C:\\Users\\piza1\\OneDrive\\Рабочий стол\\Soft\\SoftwareStoreAPI\\SoftwareStoreAPI.csproj",
       "projectName": "SoftwareStoreAPI",
-      "projectPath": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\SoftwareStoreAPI.csproj",
+      "projectPath": "C:\\Users\\piza1\\OneDrive\\Рабочий стол\\Soft\\SoftwareStoreAPI\\SoftwareStoreAPI.csproj",
       "packagesPath": "C:\\Users\\piza1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\obj\\",
+      "outputPath": "C:\\Users\\piza1\\OneDrive\\Рабочий стол\\Soft\\SoftwareStoreAPI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
