@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "ZkRraDqn5hiioOuPBmQhAb2+SGNge55kMv1IIAVMREQ=",
+  "Source": "SoftwareStoreAPI",
+  "BasePath": "_content/SoftwareStoreAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

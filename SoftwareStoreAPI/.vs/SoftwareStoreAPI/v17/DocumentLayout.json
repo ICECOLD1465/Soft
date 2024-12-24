@@ -1,0 +1,380 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF7F60-A53C-452C-A8D9-3EE557B80AE4}|Client\\Client.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FAF7F60-A53C-452C-A8D9-3EE557B80AE4}|Client\\Client.csproj|solutionrelative:client\\pages\\index.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF7F60-A53C-452C-A8D9-3EE557B80AE4}|Client\\Client.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\client\\pages\\prod.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{3FAF7F60-A53C-452C-A8D9-3EE557B80AE4}|Client\\Client.csproj|solutionrelative:client\\pages\\prod.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF7F60-A53C-452C-A8D9-3EE557B80AE4}|Client\\Client.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\client\\wwwroot\\img\\batrix.png||{177559E0-D141-11D0-92DF-00A0C9138C45}",
+      "RelativeMoniker": "D:0:0:{3FAF7F60-A53C-452C-A8D9-3EE557B80AE4}|Client\\Client.csproj|solutionrelative:client\\wwwroot\\img\\batrix.png||{177559E0-D141-11D0-92DF-00A0C9138C45}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FAF7F60-A53C-452C-A8D9-3EE557B80AE4}|Client\\Client.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{3FAF7F60-A53C-452C-A8D9-3EE557B80AE4}|Client\\Client.csproj|solutionrelative:client\\client.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\softwarestoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\softwarestoreapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\models\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\controllers\\orderdetailscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\controllers\\orderscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\controllers\\categoriescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\migrations\\20241224095442_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\migrations\\20241224095442_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|c:\\users\\piza1\\source\\repos\\softwarestoreapi\\softwarestoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{DDF8AD73-9C37-40EC-A3B2-D7D76A6CC515}|SoftwareStoreAPI\\SoftwareStoreAPI.csproj|solutionrelative:softwarestoreapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 8,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Client",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\Client.csproj",
+              "RelativeDocumentMoniker": "Client\\Client.csproj",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\Client.csproj",
+              "RelativeToolTip": "Client\\Client.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T10:52:34.092Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Prod.razor",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\Pages\\Prod.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Prod.razor",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\Pages\\Prod.razor",
+              "RelativeToolTip": "Client\\Pages\\Prod.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T11:02:45.259Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SoftwareStoreAPI",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\SoftwareStoreAPI.csproj",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\SoftwareStoreAPI.csproj",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\SoftwareStoreAPI.csproj",
+              "RelativeToolTip": "SoftwareStoreAPI\\SoftwareStoreAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-12-24T10:53:26.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "SoftwareStoreAPI\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAgwCIAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:54:01.713Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "OrdersController.cs",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Controllers\\OrdersController.cs",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\Controllers\\OrdersController.cs",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Controllers\\OrdersController.cs",
+              "RelativeToolTip": "SoftwareStoreAPI\\Controllers\\OrdersController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:59:46.926Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "OrderDetailsController.cs",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Controllers\\OrderDetailsController.cs",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\Controllers\\OrderDetailsController.cs",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Controllers\\OrderDetailsController.cs",
+              "RelativeToolTip": "SoftwareStoreAPI\\Controllers\\OrderDetailsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:01:42.772Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "SoftwareStoreAPI\\Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:59:33.875Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.razor",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\Pages\\Index.razor",
+              "RelativeDocumentMoniker": "Client\\Pages\\Index.razor",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\Pages\\Index.razor",
+              "RelativeToolTip": "Client\\Pages\\Index.razor",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-12-24T10:56:23.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "batrix.png - PNG [757x873, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\wwwroot\\Img\\batrix.png",
+              "RelativeDocumentMoniker": "Client\\wwwroot\\Img\\batrix.png",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\wwwroot\\Img\\batrix.png - PNG [757x873, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "RelativeToolTip": "Client\\wwwroot\\Img\\batrix.png - PNG [757x873, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001533|",
+              "WhenOpened": "2024-12-24T11:27:58.949Z",
+              "EditorCaption": " - PNG [757x873, 32-\u0440\u0430\u0437\u0440\u044F\u0434\u043D\u043E\u0435, PNG]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SoftwareStoreAPI\\models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:50:16.434Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\models\\Category.cs",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\models\\Category.cs",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\models\\Category.cs",
+              "RelativeToolTip": "SoftwareStoreAPI\\models\\Category.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAxwAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:48:56.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\models\\OrderDetail.cs",
+              "RelativeToolTip": "SoftwareStoreAPI\\models\\OrderDetail.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:49:47.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "CategoriesController.cs",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Controllers\\CategoriesController.cs",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\Controllers\\CategoriesController.cs",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Controllers\\CategoriesController.cs",
+              "RelativeToolTip": "SoftwareStoreAPI\\Controllers\\CategoriesController.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAMAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:59:18.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\models\\Order.cs",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\models\\Order.cs",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\models\\Order.cs",
+              "RelativeToolTip": "SoftwareStoreAPI\\models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:49:31.043Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Program.cs",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Program.cs",
+              "RelativeToolTip": "SoftwareStoreAPI\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAwwBwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:50:58.23Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\models\\User.cs",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\models\\User.cs",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\models\\User.cs",
+              "RelativeToolTip": "SoftwareStoreAPI\\models\\User.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:48:14.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "SoftwareStoreAPI\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T10:03:46.351Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20241224095442_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Migrations\\20241224095442_InitialCreate.cs",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\Migrations\\20241224095442_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\Migrations\\20241224095442_InitialCreate.cs",
+              "RelativeToolTip": "SoftwareStoreAPI\\Migrations\\20241224095442_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:54:43.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\appsettings.json",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\appsettings.json",
+              "RelativeToolTip": "SoftwareStoreAPI\\appsettings.json",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAQwAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-24T09:50:36.386Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "dc7dfffe-0e59-4691-9a24-70b9c6150835",
+        "Display": 0,
+        "X": 128,
+        "Y": 319,
+        "Width": 1128,
+        "Height": 638,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\models\\Product.cs",
+              "RelativeDocumentMoniker": "SoftwareStoreAPI\\models\\Product.cs",
+              "ToolTip": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\SoftwareStoreAPI\\models\\Product.cs",
+              "RelativeToolTip": "SoftwareStoreAPI\\models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-24T09:49:13.973Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

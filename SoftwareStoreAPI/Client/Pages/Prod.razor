@@ -1,0 +1,51 @@
+﻿@page "/products"
+
+<section id="products">
+    <div class="container">
+        <h1>Программное обеспечение</h1>
+
+        <table class="table">
+            <thead>
+                <tr>
+                    <th scope="col">ID</th>
+                    <th scope="col">Название</th>
+                    <th scope="col">Описание</th>
+                    <th scope="col">Цена</th>
+                    <th scope="col">Категория</th>
+                </tr>
+            </thead>
+            <tbody>
+                @foreach (var product in result)
+                {
+                    <tr>
+                        <th scope="row">@product.ProductID</th>
+                        <td>@product.ProductName</td>
+                        <td>@product.Description</td>
+                        <td>@product.Price</td>
+                        <td>@product.CategoryID</td>
+                    </tr>
+                }
+            </tbody>
+        </table>
+    </div>
+</section>
+
+@code {
+    public class Product
+    {
+        public int ProductID { get; set; }
+        public string ProductName { get; set; } = null!;
+        public string Description { get; set; } = null!;
+        public string Price { get; set; } = null!;
+        public string? CategoryID { get; set; }
+    }
+
+    public Product[] result = new Product[]
+    {
+        new Product { ProductID = 1, ProductName = "Антивирус Kaspersky", Description = "Защита вашего компьютера от вирусов", Price = "2500₽", CategoryID = "Антивирусы" },
+        new Product { ProductID = 2, ProductName = "Microsoft Office", Description = "Офисный пакет для работы с документами", Price = "15000₽", CategoryID = "Офисные программы" },
+        new Product { ProductID = 3, ProductName = "Adobe Photoshop", Description = "Графический редактор для профессионалов", Price = "12000₽", CategoryID = "Графика и дизайн" },
+        new Product { ProductID = 4, ProductName = "Bitrix24", Description = "CRM-система для управления бизнесом", Price = "5000₽", CategoryID = "CRM" },
+        new Product { ProductID = 5, ProductName = "Visual Studio", Description = "IDE для разработки программного обеспечения", Price = "3000₽", CategoryID = "Разработка" }
+    };
+}

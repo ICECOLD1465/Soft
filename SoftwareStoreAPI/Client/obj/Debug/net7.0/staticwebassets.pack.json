@@ -1,0 +1,61 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\bin\\Debug\\net7.0\\wwwroot\\_framework\\blazor.webassembly.js",
+      "PackagePath": "staticwebassets\\_framework\\blazor.webassembly.js"
+    },
+    {
+      "Id": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\wwwroot\\Img\\184A4682.jpg",
+      "PackagePath": "staticwebassets\\Img\\184A4682.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\wwwroot\\Img\\Крос.png",
+      "PackagePath": "staticwebassets\\Img\\Крос.png"
+    },
+    {
+      "Id": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\wwwroot\\Img\\Футболка.jpg",
+      "PackagePath": "staticwebassets\\Img\\Футболка.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\wwwroot\\Img\\рюк.jpg",
+      "PackagePath": "staticwebassets\\Img\\рюк.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\wwwroot\\Img\\шоррибок.jpg",
+      "PackagePath": "staticwebassets\\Img\\шоррибок.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\wwwroot\\Img\\штаны.jpg",
+      "PackagePath": "staticwebassets\\Img\\штаны.jpg"
+    },
+    {
+      "Id": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\wwwroot\\css\\app.css",
+      "PackagePath": "staticwebassets\\css\\app.css"
+    },
+    {
+      "Id": "C:\\Users\\piza1\\source\\repos\\SoftwareStoreAPI\\Client\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Client.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.Client.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.Client.props",
+      "PackagePath": "build\\Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.Client.props",
+      "PackagePath": "buildMultiTargeting\\Client.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.Client.props",
+      "PackagePath": "buildTransitive\\Client.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
