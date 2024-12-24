@@ -1,0 +1,7 @@
+wwwroot\css\app.css
+wwwroot\Img\batrix.png
+wwwroot\Img\kasp.png
+wwwroot\Img\office.png
+wwwroot\Img\phot.png
+wwwroot\Img\vsstudi.png
+wwwroot\index.html
